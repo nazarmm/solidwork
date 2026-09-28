@@ -1,0 +1,11 @@
+F:\university\SolidWorks\Lab1\bin\Debug\Lab1.exe.config
+F:\university\SolidWorks\Lab1\bin\Debug\Lab1.exe
+F:\university\SolidWorks\Lab1\bin\Debug\Lab1.pdb
+F:\university\SolidWorks\Lab1\obj\Debug\Lab1.csproj.AssemblyReference.cache
+F:\university\SolidWorks\Lab1\obj\Debug\Interop.SldWorks.dll
+F:\university\SolidWorks\Lab1\obj\Debug\Interop.SwConst.dll
+F:\university\SolidWorks\Lab1\obj\Debug\Interop.SWPublished.dll
+F:\university\SolidWorks\Lab1\obj\Debug\Lab1.csproj.ResolveComReference.cache
+F:\university\SolidWorks\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+F:\university\SolidWorks\Lab1\obj\Debug\Lab1.exe
+F:\university\SolidWorks\Lab1\obj\Debug\Lab1.pdb
